@@ -62,8 +62,7 @@ Real-time collaborative text editor with IP-based role management and asynchrono
 ## Experience
 
 **Graduate Research Assistant, San José State University**  
-September 2025 – Present  
-Researching LLM pipelines, multi-agent coordination, and scalable AI architectures.
+September 2025 – Present 
 
 **Trainee Developer, OneClick IT Consultancy Pvt. Ltd.**  
 January 2025 – May 2025  
@@ -72,6 +71,11 @@ Developed Smart Trip AI chatbot using FastAPI and SeamlessM4T, improving perform
 **Student Researcher, Sudeep Tanwar’s Research Group**  
 May 2023 – May 2025  
 Designed proxy-based blockchain contracts and contributed to interdisciplinary AI research, resulting in 5+ international publications.
+
+**Machine Learning Intern, Nirma University**
+May 2024 - July 2024
+Created a **YOLOv8n-based drone system** for detecting illegal parking (mAP 0.89).  
+Integrated PaddleOCR for automatic license plate recognition.
 
 ---
 

@@ -1,97 +1,90 @@
-# 👋 Hi, I'm Keya Gohil
+# Keya Gohil
 
-🎓 **M.S. in Computer Science @ San Jose State University (2025–2027)**  
-💡 AI | ML | NLP | Blockchain | Full-Stack | Cloud  
-📍 San Jose, CA | ✉️ [keya.j.gohil@gmail.com](mailto:keya.j.gohil@gmail.com) | 🌐 [Portfolio](https://keyagohil.vercel.app/) | [LinkedIn](https://linkedin.com/in/keyagohil) | [Google Scholar](https://scholar.google.com/citations?user=npoUWm8AAAAJ&hl=en) | [Credly](https://www.credly.com/badges/44405dbc-a5af-4564-9d5e-22bb1d481926/public_url)
-
----
-
-## 🚀 About Me
-I’m passionate about building intelligent systems that combine **AI, data, and automation** to solve real-world problems. My work spans **Large Language Models (LLMs)**, **Explainable AI**, **Federated Learning**, and **Blockchain**, blending academic rigor with hands-on engineering.
-
-I thrive at the intersection of **AI research and scalable software systems**, aiming to create technologies that are not only powerful but also interpretable and impactful.
+Graduate Research Assistant at San José State University  
+Generative AI | Multi-Agent Systems | LLMs | RAG | Computer Vision | Blockchain | MLOps | AWS | Docker | Big Data  
+San Jose, CA | Email: keya.j.gohil@gmail.com  
+Portfolio: [keyagohil.vercel.app](https://keyagohil.vercel.app) | [LinkedIn](https://www.linkedin.com/in/keyagohil) | [Google Scholar](https://scholar.google.com/citations?user=npoUWm8AAAAJ&hl=en)
 
 ---
 
-## 🧠 Skills
+## About Me
 
-**Languages:** Python, C, C++, Java, SQL, JavaScript, Solidity  
-**Frameworks & Tools:** FastAPI, Django, Node.js, React, Streamlit, Docker, Kubernetes, AWS, Spark  
-**AI/ML:** PyTorch, TensorFlow, LangChain, LangGraph, CrewAI, Transformers, GNNs, LoRA  
+I am a Computer Science graduate student at San José State University, focused on developing scalable, intelligent systems through a combination of AI, data, and automation.  
+My experience bridges software engineering, research, and applied AI, with a particular focus on explainable, decentralized, and multi-agent systems.
+
+I have co-authored multiple peer-reviewed papers in Explainable AI, Blockchain, and Federated Systems, published in IEEE, Elsevier, and Wiley journals.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, Java, SQL, Solidity  
+**Frameworks and Tools:** FastAPI, Django, Node.js, React, Docker, Kubernetes, AWS, Spark, Streamlit  
+**AI/ML:** PyTorch, TensorFlow, LangChain, Transformers, Federated Learning, LoRA, LangGraph  
 **Databases:** PostgreSQL, MongoDB, Neo4j, FAISS, ChromaDB  
-**Domains:** NLP, Generative AI, Computer Vision, Blockchain, Distributed Systems, ETL Pipelines  
+**Domains:** Generative AI, NLP, RAG, Computer Vision, Blockchain, ETL Pipelines, Distributed Systems
 
 ---
 
-## 📚 Publications
+## Publications
 
-- 🩺 *Explainable AI for Gastrointestinal Disease Diagnosis in Tele-Surgery* — *Computers & Electrical Engineering, 2024*  
-- 🔐 *Blockchain-Based Decentralized Oracle Network for Identity Management in Metaverse* — *Security & Privacy, 2024*  
-- 🏥 *Blockchain-Assisted Healthcare Insurance Fraud Detection Using Ensemble Learning* — *Computers & Electrical Engineering, 2025*  
-- 🧬 *X-CaD: Explainable AI for Skin Cancer Diagnosis in Healthcare 4.0* — *IEEE ICC, 2024*  
+- Proxy-based Verification of Smart Contracts for Healthcare Domain in Blockchain Environment  
+- Blockchain-Assisted Healthcare Insurance Fraud Detection Framework Using Ensemble Learning  
+- Deep Learning and Proxy Smart Contract-Based Supply Chain Management for Electric Vehicles  
+- Intelligent Edge-Fog Interplay for Healthcare Informatics: A Blockchain Perspective  
+- Blockchain-Based Decentralized Oracle Network Framework for Identity Management in Metaverse  
 
-📖 [View all on Google Scholar →](https://scholar.google.com/citations?user=npoUWm8AAAAJ&hl=en)
-
----
-
-## 🧩 Featured Projects
-
-### 🛰️ [NASABASE: AI Knowledge Engine for Space Biology](https://github.com/kru2710shna/NASABASE)
-ETL + LLM-based system for mining NASA bioscience research using ChromaDB and OpenAI embeddings.  
-*Tech:* Python, TypeScript, OpenAI, ChromaDB, KeyBERT  
-
-### 🩻 [Fine-Tuning ViT with LoRA](https://github.com/keya714/FinetunningVisionLLM)
-Low-rank fine-tuning of Vision Transformer for medical imaging, optimizing just 0.63% of parameters.  
-*Tech:* PyTorch, Vision Transformers, LoRA  
-
-### 🧠 [DeepSearch – AI Research Assistant](https://github.com/keya714/Deepreprosearch)
-LLM-powered research agent using CrewAI and MCP Server for automated, multi-source scientific search.  
-
-### 🚦 [Bay Area Accident Risk Prediction](https://github.com/keya714/SanJoseTrafficpreprodiction)
-Federated learning pipeline predicting accident-prone zones (AUC = 0.98).  
-*Tech:* TensorFlow, Big Data, Federated Averaging  
-
-### 🎬 [CineVerse-RAG](https://knowledgegraph-ragwithneo4j-boc8b7xtxx7h2zemgek2bm.streamlit.app/)
-Knowledge Graph + RAG pipeline using Neo4j and Llama 3.2 for intelligent movie Q&A.  
-*Tech:* Streamlit, LLMs, Neo4j, ETL  
-
-### 💬 [DocuChat-RAG](https://github.com/keya714/Chatwithscientificdocument)
-Chatbot for scientific document understanding using LangChain, FAISS, and PostgreSQL vector extensions.  
-
-### 🔗 [SecureShare](https://github.com/keya714/SecureShare)
-Real-time collaborative text editor with IP-based role management and live updates via WebSockets.  
-*Tech:* Node.js, Socket.IO, WebSockets  
+Full list on [Google Scholar](https://scholar.google.com/citations?user=npoUWm8AAAAJ&hl=en)
 
 ---
 
-## 💼 Experience
+## Projects
 
-### 🧩 Python Trainee Developer | Oneclick IT Solutions (Jan–May 2025)
-- Built a **FastAPI chatbot** for personalized travel itineraries, integrating **LLaMA 3.2** and **SeamlessM4T** for multilingual speech-to-text.  
-- Reduced API latency by **40%**, deployed scalable infra with **Kubernetes + NGINX**.
+### NASABASE: AI Knowledge Engine for Space Biology
+ETL and LLM-powered retrieval system for NASA bioscience publications using ChromaDB and OpenAI embeddings.  
+Technologies: Python, TypeScript, OpenAI, KeyBERT, ChromaDB
 
-### 🤖 Machine Learning Intern | Nirma University (May–Jul 2024)
-- Created a **YOLOv8n-based drone system** for detecting illegal parking (mAP 0.89).  
-- Integrated PaddleOCR for automatic license plate recognition.
+### Fine-Tuning Vision Transformer with LoRA
+Fine-tuned a Vision Transformer for medical imaging with minimal compute using low-rank adaptation.  
+Technologies: PyTorch, LoRA, Vision Transformers
 
-### 🔬 Student Researcher | Sudeep Tanwar’s Research Group (May 2023–May 2025)
-- Worked on **AI + Blockchain** integration for healthcare, privacy, and identity management.  
-- Published 4 papers, achieved **h-index 4** and **33+ citations**.
+### DeepSearch: AI Research Assistant
+Multi-agent research assistant automating literature search and analysis using CrewAI and MCP server.
 
----
+### CineVerse-RAG
+Knowledge graph-powered RAG system using Neo4j and Llama 3.2 for interactive Q&A over movie data.
 
-## 🏆 Achievements
-
-- 🧰 AWS Academy: Built CI/CD pipelines and microservices on AWS CodePipeline  
-- 🎓 IEEE Travel Grant Recipient — IEEE ICC 2024, Denver, USA  
+### SecureShare
+Real-time collaborative text editor with IP-based role management and asynchronous communication via WebSockets.
 
 ---
 
-## 📫 Let’s Connect!
+## Experience
 
-I’m always open to collaborating on **AI research**, **open-source projects**, or **intelligent system design**.  
-💬 Reach me via [email](mailto:keya.j.gohil@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/keyagohil).
+**Graduate Research Assistant, San José State University**  
+September 2025 – Present  
+Researching LLM pipelines, multi-agent coordination, and scalable AI architectures.
+
+**Trainee Developer, OneClick IT Consultancy Pvt. Ltd.**  
+January 2025 – May 2025  
+Developed Smart Trip AI chatbot using FastAPI and SeamlessM4T, improving performance and scalability through Kubernetes.
+
+**Student Researcher, Sudeep Tanwar’s Research Group**  
+May 2023 – May 2025  
+Designed proxy-based blockchain contracts and contributed to interdisciplinary AI research, resulting in 5+ international publications.
 
 ---
 
-⭐️ *"Building the bridge between intelligence and innovation."*
+## Achievements
+
+- IEEE ICC 2024 Travel Grant Recipient  
+- AWS Academy Graduate — Microservices and CI/CD Pipeline Builder  
+- 5+ Research Publications | 30+ Citations | h-index: 4
+
+---
+
+## Contact
+
+Email: [keya.j.gohil@gmail.com](mailto:keya.j.gohil@gmail.com)  
+Portfolio: [keyagohil.vercel.app](https://keyagohil.vercel.app)  
+LinkedIn: [linkedin.com/in/keyagohil](https://www.linkedin.com/in/keyagohil)
